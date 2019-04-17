@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TensorFlow_Part1</string>
+    <string name="camera"> Open Camera</string>
+    <string name="todo">Picture Image</string>
+</resources>
